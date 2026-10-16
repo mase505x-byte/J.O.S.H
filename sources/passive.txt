@@ -1,0 +1,6 @@
+curl
+jq
+whois
+dig
+openssl
+python3
