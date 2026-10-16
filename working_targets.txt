@@ -1,0 +1,42 @@
+# Copyable URLs matching allowed_hosts.txt. Confirm bounty scope before scanning.
+https://google.com/
+https://www.apple.com/
+https://www.android.com/
+https://claude.com/
+https://discord.com/
+https://www.tiktok.com/
+
+# GitHub Bug Bounty Program
+# Policy / rules: https://bounty.github.com/rules
+# Published scope: https://bounty.github.com/scope
+# These are exact public hostnames under GitHub's listed scope. Check named exclusions and target-specific rules before each scan.
+https://github.com/
+https://api.github.com/
+https://gist.github.com/
+https://docs.github.com/
+https://education.github.com/
+https://desktop.github.com/
+https://cli.github.com/
+https://enterprise.github.com/
+https://copilot.github.com/
+https://pages.github.com/
+https://github.githubassets.com/
+https://raw.githubusercontent.com/
+https://avatars.githubusercontent.com/
+https://camo.githubusercontent.com/
+https://cloud.githubusercontent.com/
+https://gist.githubusercontent.com/
+https://objects.githubusercontent.com/
+https://user-images.githubusercontent.com/
+https://private-user-images.githubusercontent.com/
+https://media.githubusercontent.com/
+https://live.github.com/
+https://partner.github.com/
+https://securitylab.github.com/
+https://maintainers.github.com/
+https://developer.github.com/
+https://npmjs.com/
+https://www.npmjs.com/
+https://docs.npmjs.com/
+https://registry.npmjs.org/
+https://npmjs.org/
